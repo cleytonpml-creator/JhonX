@@ -1,0 +1,8 @@
+{
+  "name": "Jhonx London - Phonics Challenge",
+  "description": "Urban London phonics pronunciation game with On-Device Speech Recognition, London Bus progress route, Electric Blue 64px letters, and neon boombox microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
